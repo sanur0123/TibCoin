@@ -1,0 +1,2 @@
+# TipCoin
+TipCoin Best coin
