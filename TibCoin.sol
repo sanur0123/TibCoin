@@ -375,8 +375,8 @@ contract Tib is Context, IERC20, Ownable {
     uint256 private _tTotal = 1000000000000 * 10**18;
     uint256 private _rTotal = (MAX - (MAX % _tTotal));
     uint256 private _tFeeTotal;
-    string private _name = "TipTop";
-    string private _symbol = "TPP";
+    string private _name = "TibCoin";
+    string private _symbol = "TBC";
     uint8 private _decimals = 18;
     uint256 public _taxFee = 20;
     uint256 private _previousTaxFee = _taxFee;
